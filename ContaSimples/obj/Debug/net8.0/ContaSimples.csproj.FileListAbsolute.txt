@@ -1,0 +1,14 @@
+C:\temp\projetos\C# - Curso\ContaSimples\ContaSimples\ContaSimples\bin\Debug\net8.0\ContaSimples.exe
+C:\temp\projetos\C# - Curso\ContaSimples\ContaSimples\ContaSimples\bin\Debug\net8.0\ContaSimples.deps.json
+C:\temp\projetos\C# - Curso\ContaSimples\ContaSimples\ContaSimples\bin\Debug\net8.0\ContaSimples.runtimeconfig.json
+C:\temp\projetos\C# - Curso\ContaSimples\ContaSimples\ContaSimples\bin\Debug\net8.0\ContaSimples.dll
+C:\temp\projetos\C# - Curso\ContaSimples\ContaSimples\ContaSimples\bin\Debug\net8.0\ContaSimples.pdb
+C:\temp\projetos\C# - Curso\ContaSimples\ContaSimples\ContaSimples\obj\Debug\net8.0\ContaSimples.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\projetos\C# - Curso\ContaSimples\ContaSimples\ContaSimples\obj\Debug\net8.0\ContaSimples.AssemblyInfoInputs.cache
+C:\temp\projetos\C# - Curso\ContaSimples\ContaSimples\ContaSimples\obj\Debug\net8.0\ContaSimples.AssemblyInfo.cs
+C:\temp\projetos\C# - Curso\ContaSimples\ContaSimples\ContaSimples\obj\Debug\net8.0\ContaSimples.csproj.CoreCompileInputs.cache
+C:\temp\projetos\C# - Curso\ContaSimples\ContaSimples\ContaSimples\obj\Debug\net8.0\ContaSimples.dll
+C:\temp\projetos\C# - Curso\ContaSimples\ContaSimples\ContaSimples\obj\Debug\net8.0\refint\ContaSimples.dll
+C:\temp\projetos\C# - Curso\ContaSimples\ContaSimples\ContaSimples\obj\Debug\net8.0\ContaSimples.pdb
+C:\temp\projetos\C# - Curso\ContaSimples\ContaSimples\ContaSimples\obj\Debug\net8.0\ContaSimples.genruntimeconfig.cache
+C:\temp\projetos\C# - Curso\ContaSimples\ContaSimples\ContaSimples\obj\Debug\net8.0\ref\ContaSimples.dll
